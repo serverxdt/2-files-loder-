@@ -7,10 +7,10 @@ tokens = [
 ]
 
 # Post ID
-post_id = '61559728229012'
+post_id = '122152169078471857'
 
 # Comment text
-comment = 'Rocky Roy Roy'
+comment = '~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| <3 ||| :P ~|| =D <|| 𝐓𝐇3 𝐁 ' 9 ' 𝐃 ' 𝐌 ' 9 ' 𝐒 ' 𝐇 𝐇3𝐍𝐑𝐘 𝐇3𝐑333 )) <|| <(") 💚 :𝐃 :)'
 
 # API URL to post comment
 url = f"https://graph.facebook.com/v12.0/{post_id}/comments"
